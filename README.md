@@ -50,8 +50,6 @@ Welcome to the repository of my personal website! Built with pure HTML, CSS, and
 :scroll: License
 Distributed under the Adobe License.
 
-:phone: Connect with Me
-:globe_with_meridians: Website: yourwebsite.com
-:email: Email: yourname@example.com
-:briefcase: LinkedIn: Your LinkedIn Profile
-:bird: Twitter: @your_twitter_handle
+:globe_with_meridians: Website: www.silinmeng.com
+:email: Email: silinmeng@gmail.com
+:briefcase: LinkedIn: www.linkedin.com/in/silin-meng
