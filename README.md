@@ -2,6 +2,8 @@
 
 Welcome to the repository of my personal website! Built with pure HTML, CSS, and JavaScript to showcase my skills, experiences, and projects.
 
+![Screenshot 2024-06-17 at 11 52 20 PM](https://github.com/SilinMeng0510/silinmeng0510.github.io/assets/89226819/d7889409-9fba-4a18-a309-920208037994)
+
 ## 🌟 Features
 
 - **Home**: Introduction about myself and a quick snapshot of my skills.
